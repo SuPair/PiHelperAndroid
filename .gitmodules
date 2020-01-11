@@ -1,0 +1,9 @@
+[submodule "libpihelper/src/main/c/libpihelper"]
+	path = libpihelper/src/main/c/libpihelper
+	url = git@git.wbrawner.com:/pub/git/Pi-Helper/pihelper.git
+[submodule "libpihelper/src/main/c/curl"]
+	path = libpihelper/src/main/c/curl
+	url = https://github.com/curl/curl
+[submodule "libpihelper/src/main/c/openssl"]
+	path = libpihelper/src/main/c/openssl
+	url = https://github.com/openssl/openssl
